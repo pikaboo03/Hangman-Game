@@ -1,5 +1,4 @@
-// payal		PAYD1801
-// sudipto sarkar  SARS1D1801
+
 
 #include <iostream>
 
